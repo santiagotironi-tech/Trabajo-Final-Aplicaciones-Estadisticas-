@@ -1,6 +1,5 @@
-# ============================================
+# 
 # 00_setup.R - Paquetes y datos (lo usan todos los scripts)
-# ============================================
 # Ejecutar siempre desde la carpeta del proyecto (taller-4-raps/).
 # Si faltan paquetes, instalarlos UNA vez desde la consola (no desde el script):
 # install.packages(c("dplyr", "tidyr", "ggplot2", "car"))
