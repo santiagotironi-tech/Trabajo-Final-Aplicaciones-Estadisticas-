@@ -1,6 +1,6 @@
-# ============================================
+
 # I.2.b - % de parcelas con manejo convencional por región
-# ============================================
+
 # Si el manejo se hubiera sorteado dentro de cada región, cada una tendría
 # exactamente 50 % (75 de 150). Que no sea así indica un sorteo sobre las 450
 # parcelas en conjunto (DCA).
