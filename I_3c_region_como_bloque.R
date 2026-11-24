@@ -1,6 +1,6 @@
-# ============================================
+
 # I.3.b y I.3.c - ¿Región es un buen bloque?
-# ============================================
+
 # I.3.b usa la Tabla 3 (ver I_1_tablas_base.R): medias entre regiones vs DE dentro.
 # I.3.c compara el Modelo 1 (DCA) con el Modelo 2 (Región como bloque).
 source("R/00_setup.R")
