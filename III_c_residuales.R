@@ -1,6 +1,6 @@
-# ============================================
+
 # III.c - Gráfico de residuales del modelo final
-# ============================================
+
 source("R/00_setup.R")
 
 modelo_regresion_lineal <- lm(Rendimiento ~ Temp_prom + HR_prom + Pp_total, data = Base_Datos)
@@ -17,6 +17,4 @@ png("figuras/III_c_residuales.png", width = 900, height = 650)   # para el infor
 graficar_residuales()
 dev.off()
 
-# Opcional: normalidad de los residuales
-# qqnorm(resid(modelo_regresion_lineal)); qqline(resid(modelo_regresion_lineal))
-# shapiro.test(resid(modelo_regresion_lineal))
+
