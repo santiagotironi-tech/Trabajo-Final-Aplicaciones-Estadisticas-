@@ -1,6 +1,5 @@
-# ============================================
+
 # II.b - Muestreo de razón y regresión (Temperatura vs. Rendimiento)
-# ============================================
 # Las 450 parcelas se tratan como la población. Se extrae una muestra aleatoria
 # simple y se estima la media de Rendimiento (y) usando la temperatura (x),
 # cuya media poblacional se considera conocida.
