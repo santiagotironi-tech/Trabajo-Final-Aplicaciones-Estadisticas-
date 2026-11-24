@@ -1,6 +1,6 @@
-# ============================================
+
 # I - Tablas de la base (Tablas 1, 2 y 3)
-# ============================================
+
 # Solo conteos, medias y desviaciones estándar. Se usan en I.2 y I.3.
 source("R/00_setup.R")
 
