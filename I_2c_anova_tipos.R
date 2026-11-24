@@ -1,6 +1,6 @@
-# ============================================
+
 # I.2.c - Balance y ANOVA tipo I, II y III
-# ============================================
+
 # Con desbalance, el tipo I (secuencial) depende del orden de los factores.
 source("R/00_setup.R")
 
